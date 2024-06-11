@@ -2,7 +2,7 @@
 div {
     width: 500px;
     height: 500px;
-    border: 50px solid rgba(0,0,0,.1);
+    border: 50px solid rgba(0, 0, 0, .1);
     margin: 20px;
     padding: 50px;
     background-image: url('../../../images/bit.png');
@@ -20,6 +20,6 @@ div {
 }
 
 .box3 {
-    /*content-box: content를 기준으로 배경이미지를 배치한다.*/
+    /*content-box: 내용 기준으로 배경이미지를 배치한다.*/
     background-origin: content-box;
 }
